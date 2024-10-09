@@ -14,6 +14,6 @@ Will print how much time it took to execute that function in Millisecond (ms) , 
 
 ## What does `Ksana` means ?
 
-क्षण (Kṣaṇa) - Refers to a moment or an instant.
+**क्षण (Kṣaṇa)** - Refers to a moment or an instant.
 
 Cool name , aye.
